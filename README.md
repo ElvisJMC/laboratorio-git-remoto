@@ -30,7 +30,7 @@ origin  git@github.com:ElvisJMC/laboratorio0.git (push)
 
   - Lo soluciono fusionando los historiales con git pull origin main --allow-unrelated-histories. 
 
-  - Finalmente subo los cambios con git push origin main.
+  - Finalmente subo los cambios con git push -u origin main.
 
 4. Crear una rama:
 
