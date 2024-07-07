@@ -48,6 +48,7 @@ origin  git@github.com:ElvisJMC/laboratorio0.git (push)
   - Subo los cambios a GitHub con git push -u origin.
   - Empiezo a editar el archivo "reamde" y al hacer git push para comprobar que se suben los cambios correctamente, recibo el error: fatal: The current branch main has no upstream branch...
   - Entiendo que debería haber hecho antes un git push --set-upstream origin main para poder asignarlo como repositorio por defecto para subir los cambios.
+  - Termino de editar el readme y hago  git push.
 
 
 
